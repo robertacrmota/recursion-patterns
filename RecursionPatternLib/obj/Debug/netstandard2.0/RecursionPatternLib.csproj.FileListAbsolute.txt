@@ -1,0 +1,9 @@
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPatternLib\bin\Debug\netstandard2.0\RecursionPatternLib.deps.json
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPatternLib\bin\Debug\netstandard2.0\RecursionPatternLib.dll
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPatternLib\bin\Debug\netstandard2.0\RecursionPatternLib.pdb
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPatternLib\obj\Debug\netstandard2.0\RecursionPatternLib.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPatternLib\obj\Debug\netstandard2.0\RecursionPatternLib.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPatternLib\obj\Debug\netstandard2.0\RecursionPatternLib.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPatternLib\obj\Debug\netstandard2.0\RecursionPatternLib.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPatternLib\obj\Debug\netstandard2.0\RecursionPatternLib.dll
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPatternLib\obj\Debug\netstandard2.0\RecursionPatternLib.pdb

@@ -1,0 +1,14 @@
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPattern\bin\Debug\netcoreapp2.1\RecursionPattern.deps.json
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPattern\bin\Debug\netcoreapp2.1\RecursionPattern.runtimeconfig.json
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPattern\bin\Debug\netcoreapp2.1\RecursionPattern.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPattern\bin\Debug\netcoreapp2.1\RecursionPattern.dll
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPattern\bin\Debug\netcoreapp2.1\RecursionPattern.pdb
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPattern\bin\Debug\netcoreapp2.1\RecursionPatternLib.dll
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPattern\bin\Debug\netcoreapp2.1\RecursionPatternLib.pdb
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPattern\obj\Debug\netcoreapp2.1\RecursionPattern.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPattern\obj\Debug\netcoreapp2.1\RecursionPattern.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPattern\obj\Debug\netcoreapp2.1\RecursionPattern.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPattern\obj\Debug\netcoreapp2.1\RecursionPattern.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPattern\obj\Debug\netcoreapp2.1\RecursionPattern.csproj.CopyComplete
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPattern\obj\Debug\netcoreapp2.1\RecursionPattern.dll
+C:\Users\Owner\Desktop\Personal\01_Jobs\Byte-by-Byte\Recursion Course\RecursionPatterns\RecursionPattern\obj\Debug\netcoreapp2.1\RecursionPattern.pdb
