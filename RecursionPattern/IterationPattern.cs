@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 using System.Collections;
-namespace IterationPattern
+namespace IterationPatternNS
 {
     /*
         # QUESTION LIST
@@ -80,16 +80,6 @@ namespace IterationPattern
             foreach(string str in subs) {
                 System.Console.WriteLine(str);
             }
-        }
-
-        static void Main(string[] args)
-        {
-            // Question 1: Write a funcion that inserts an element at the bottom of a stack
-            // SampleQ1();
-
-
-            // Question 2: Given a string, write a function that returns a list of all substrings
-            SampleQ2();
         }
     }
 }
