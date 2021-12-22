@@ -17,6 +17,12 @@ public class Program {
         // SubproblemsPattern -----------------------------------------------------------------------
 
         // Question 1: Towers of Hanoi
-        SubproblemsPattern.SampleQ1();
+        // SubproblemsPattern.SampleQ1();
+
+        // Question 2: Stair steps
+        SubproblemsPattern.SampleQ2();
+
+        // Question 3: Stair steps - 2
+        // SubproblemsPattern.SampleQ3();
     }
 }
