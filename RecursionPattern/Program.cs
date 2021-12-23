@@ -1,5 +1,7 @@
 using IterationPatternNS;
 using SubproblemsPatternNS;
+using SelectPatternNS;
+
 public class Program {
 
     static void Main(string[] args)
@@ -20,9 +22,18 @@ public class Program {
         // SubproblemsPattern.SampleQ1();
 
         // Question 2: Stair steps
-        SubproblemsPattern.SampleQ2();
+        // SubproblemsPattern.SampleQ2();
 
         // Question 3: Stair steps - 2
         // SubproblemsPattern.SampleQ3();
+
+        // ------------------------------------------------------------------------------------------
+        // SelectionPattern -------------------------------------------------------------------------
+
+        // Question 1: Combinations of length
+        // SelectPattern.SampleQ1();
+
+        // Question 2: Combinations of length - 2
+        SelectPattern.SampleQ2();
     }
 }
