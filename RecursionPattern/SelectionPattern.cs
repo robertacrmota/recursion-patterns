@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-namespace SelectPatternNS
+namespace SelectionPatternNS
 {
-    public static class SelectPattern
+    public static class SelectionPattern
     {
         /*
             # QUESTION LIST

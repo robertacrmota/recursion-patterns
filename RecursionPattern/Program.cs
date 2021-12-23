@@ -1,6 +1,7 @@
 using IterationPatternNS;
 using SubproblemsPatternNS;
-using SelectPatternNS;
+using SelectionPatternNS;
+using OrderingPatternNS;
 
 public class Program {
 
@@ -34,6 +35,12 @@ public class Program {
         // SelectPattern.SampleQ1();
 
         // Question 2: Combinations of length - 2
-        SelectPattern.SampleQ2();
+        // SelectionPattern.SampleQ2();
+
+        // ------------------------------------------------------------------------------------------
+        // OrderingPattern --------------------------------------------------------------------------
+
+        // Question 1: Permutations
+        OrderingPattern.SampleQ1();
     }
 }
