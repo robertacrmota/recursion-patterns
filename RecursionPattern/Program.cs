@@ -41,6 +41,9 @@ public class Program {
         // OrderingPattern --------------------------------------------------------------------------
 
         // Question 1: Permutations
-        OrderingPattern.SampleQ1();
+        // OrderingPattern.SampleQ1();
+
+        // Question 1: Permutations of Length
+        OrderingPattern.SampleQ2();
     }
 }
